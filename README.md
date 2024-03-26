@@ -53,9 +53,6 @@ Type casting, using functions like CAST(), converts data from one data type to a
 10. Data Sorting
 - Data sorting is performed using the ORDER BY clause to arrange query results in a specified order, such as sorting by date in ascending or descending order.
 
-## Key Findings
-- Summary of the key insights derived from the analysis, including notable trends,
-
 ## Future Work
 1. Explore additional variables or data sources to enhance the analysis.
 2. Conduct comparative analyses with other countries or regions.
